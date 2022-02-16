@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This file contains a list of generic triads.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-301-harmony-and-counterpoint-i-spring-2005/23759f2b7347d4f82514a9ba9e962f82_triads_generic.pdf
+file: /media/courses/21m-301-harmony-and-counterpoint-i-spring-2005/23759f2b7347d4f82514a9ba9e962f82_triads_generic.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: triads_generic.pdf
 uid: 23759f2b-7347-d4f8-2514-a9ba9e962f82

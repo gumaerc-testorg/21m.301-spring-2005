@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains uncorrected version of musical rhythm.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-301-harmony-and-counterpoint-i-spring-2005/0decc86c08e90b7bbd8a5efd35b61f30_jeff_easley_uncor.pdf
+file: /media/courses/21m-301-harmony-and-counterpoint-i-spring-2005/0decc86c08e90b7bbd8a5efd35b61f30_jeff_easley_uncor.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: jeff_easley_uncor.pdf
 uid: 0decc86c-08e9-0b7b-bd8a-5efd35b61f30

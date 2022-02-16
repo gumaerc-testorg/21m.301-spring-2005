@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains uncorrected musical rhythm.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-301-harmony-and-counterpoint-i-spring-2005/0fbe87bbf11b6cfbbe5ce3aa5f4d3380_erik_stafl_uncor.pdf
+file: /media/courses/21m-301-harmony-and-counterpoint-i-spring-2005/0fbe87bbf11b6cfbbe5ce3aa5f4d3380_erik_stafl_uncor.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: erik_stafl_uncor.pdf
 uid: 0fbe87bb-f11b-6cfb-be5c-e3aa5f4d3380

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains the questions for exam preparation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-301-harmony-and-counterpoint-i-spring-2005/80ce317683dda0f0c3ff7c777bfd6242_301exp_quesmusic.pdf
+file: /media/courses/21m-301-harmony-and-counterpoint-i-spring-2005/80ce317683dda0f0c3ff7c777bfd6242_301exp_quesmusic.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 301exp_quesmusic.pdf
 uid: 80ce3176-83dd-a0f0-c3ff-7c777bfd6242

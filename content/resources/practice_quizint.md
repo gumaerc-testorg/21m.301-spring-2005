@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains the questions for practice quiz for intervals.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-301-harmony-and-counterpoint-i-spring-2005/51b4a9bd73fe836bdf6fd688a91d7938_practice_quizint.pdf
+file: /media/courses/21m-301-harmony-and-counterpoint-i-spring-2005/51b4a9bd73fe836bdf6fd688a91d7938_practice_quizint.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: practice_quizint.pdf
 uid: 51b4a9bd-73fe-836b-df6f-d688a91d7938

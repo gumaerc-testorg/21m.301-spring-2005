@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This file contains the notes for horizontal and vertical successions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-301-harmony-and-counterpoint-i-spring-2005/4277d8f1b53193ca1ed7af44b26f2575_q_one_spe_two.pdf
+file: /media/courses/21m-301-harmony-and-counterpoint-i-spring-2005/4277d8f1b53193ca1ed7af44b26f2575_q_one_spe_two.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: q_one_spe_two.pdf
 uid: 4277d8f1-b531-93ca-1ed7-af44b26f2575
