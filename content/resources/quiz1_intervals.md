@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 68d13a1d-fa1a-588e-79cd-d3aad0ed0188
 resourcetype: Document
 title: quiz1_intervals.pdf
 uid: 7ede3f94-a4d1-5eff-45e8-914670274e8f

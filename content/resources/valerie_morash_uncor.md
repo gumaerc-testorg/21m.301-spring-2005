@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39afb745-09a5-f1cb-9414-c9d1e7b62dbc
 resourcetype: Document
 title: valerie_morash_uncor.pdf
 uid: 57f80214-fe94-df9b-3549-9e7ceac070ce

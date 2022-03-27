@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39afb745-09a5-f1cb-9414-c9d1e7b62dbc
 resourcetype: Document
 title: rian_hunter_corre.pdf
 uid: a853e6c6-0e5a-66b3-ff74-cb36dec1bc45

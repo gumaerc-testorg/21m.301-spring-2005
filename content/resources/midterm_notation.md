@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 68d13a1d-fa1a-588e-79cd-d3aad0ed0188
 resourcetype: Document
 title: midterm_notation.pdf
 uid: 64e9b529-d227-aa29-fe3b-0e8f0d4edd52

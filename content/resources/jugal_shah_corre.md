@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39afb745-09a5-f1cb-9414-c9d1e7b62dbc
 resourcetype: Document
 title: jugal_shah_corre.pdf
 uid: 2fcc33d7-185e-1a1e-5fc6-86f2aea3feed

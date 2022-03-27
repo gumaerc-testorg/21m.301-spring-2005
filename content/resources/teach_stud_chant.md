@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 696667a3-033c-e62c-b2c9-337c8d0521f4
 resourcetype: Document
 title: teach_stud_chant.pdf
 uid: e7c884ce-100c-84aa-0908-bfdcc6d69ee6

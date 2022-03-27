@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 68d13a1d-fa1a-588e-79cd-d3aad0ed0188
 resourcetype: Document
 title: quiz4_int_triads.pdf
 uid: 5e88bdd8-3efc-d140-1abd-97c9942e5824

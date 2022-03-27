@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 84e4eb93-b285-ee61-df33-ba27bf276d5d
 resourcetype: Document
 title: assignment9_shrt.pdf
 uid: 7a5b7dae-d872-0a35-8b3f-463a708657ba

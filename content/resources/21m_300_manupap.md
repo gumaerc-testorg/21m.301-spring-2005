@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 696667a3-033c-e62c-b2c9-337c8d0521f4
 resourcetype: Document
 title: 21m_300_manupap.pdf
 uid: 856c8ee6-7358-0752-3345-aa304ceaa953

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39afb745-09a5-f1cb-9414-c9d1e7b62dbc
 resourcetype: Document
 title: sek_tan_uncor.pdf
 uid: b2c2acf1-8ede-7870-0fde-80504b06d26e

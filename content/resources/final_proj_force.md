@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39afb745-09a5-f1cb-9414-c9d1e7b62dbc
 resourcetype: Document
 title: final_proj_force.pdf
 uid: 695d904f-02a6-015a-3165-83ae707e7118

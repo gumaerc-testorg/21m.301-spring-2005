@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39afb745-09a5-f1cb-9414-c9d1e7b62dbc
 resourcetype: Document
 title: dawn_zhang_corre.pdf
 uid: 7c8ae34f-a3ab-4824-81f4-d8fefc365dd7

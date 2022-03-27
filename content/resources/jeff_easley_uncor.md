@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39afb745-09a5-f1cb-9414-c9d1e7b62dbc
 resourcetype: Document
 title: jeff_easley_uncor.pdf
 uid: 0decc86c-08e9-0b7b-bd8a-5efd35b61f30

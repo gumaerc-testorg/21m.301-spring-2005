@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39afb745-09a5-f1cb-9414-c9d1e7b62dbc
 resourcetype: Document
 title: nathan_meng_uncor.pdf
 uid: e5e13bbe-3e9d-f62e-1a0e-6c27a3f375c6

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 84e4eb93-b285-ee61-df33-ba27bf276d5d
 resourcetype: Document
 title: assignment10_srt.pdf
 uid: f4f8c1e6-eeda-8a71-cc48-618544e3c0e7

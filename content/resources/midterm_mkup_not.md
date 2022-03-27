@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 68d13a1d-fa1a-588e-79cd-d3aad0ed0188
 resourcetype: Document
 title: midterm_mkup_not.pdf
 uid: 50f09a3c-3e32-e9b5-34c5-6aad04af73f3

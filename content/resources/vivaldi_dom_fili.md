@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 84e4eb93-b285-ee61-df33-ba27bf276d5d
 resourcetype: Document
 title: vivaldi_dom_fili.pdf
 uid: 8de88c9c-e033-bfa7-de4d-fdcf0a58685a

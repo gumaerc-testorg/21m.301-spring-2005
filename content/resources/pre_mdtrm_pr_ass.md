@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 68d13a1d-fa1a-588e-79cd-d3aad0ed0188
 resourcetype: Document
 title: pre_mdtrm_pr_ass.pdf
 uid: 4adac299-4e55-d632-74d7-0b60fbc312af

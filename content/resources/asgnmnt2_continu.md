@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 84e4eb93-b285-ee61-df33-ba27bf276d5d
 resourcetype: Document
 title: asgnmnt2_continu.pdf
 uid: 1c211eed-4e59-95d4-2c70-1ee93de0a06e

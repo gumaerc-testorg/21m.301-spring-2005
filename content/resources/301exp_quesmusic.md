@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 68d13a1d-fa1a-588e-79cd-d3aad0ed0188
 resourcetype: Document
 title: 301exp_quesmusic.pdf
 uid: 80ce3176-83dd-a0f0-c3ff-7c777bfd6242

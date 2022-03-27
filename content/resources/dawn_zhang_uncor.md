@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39afb745-09a5-f1cb-9414-c9d1e7b62dbc
 resourcetype: Document
 title: dawn_zhang_uncor.pdf
 uid: 35ee6fd7-6743-dd2f-18b8-979ad48d872f

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 84e4eb93-b285-ee61-df33-ba27bf276d5d
 resourcetype: Document
 title: asgnmnt5_twopart.pdf
 uid: 1e2dff53-6bc1-56dd-3f2f-903885c3ff4c

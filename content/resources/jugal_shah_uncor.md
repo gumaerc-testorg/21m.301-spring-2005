@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39afb745-09a5-f1cb-9414-c9d1e7b62dbc
 resourcetype: Document
 title: jugal_shah_uncor.pdf
 uid: e92acd9a-d93b-4fa9-da37-1daf8126b4c2

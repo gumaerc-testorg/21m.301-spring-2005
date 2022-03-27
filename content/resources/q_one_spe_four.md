@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 696667a3-033c-e62c-b2c9-337c8d0521f4
 resourcetype: Document
 title: q_one_spe_four.pdf
 uid: b9fd42cf-7bd8-5c32-79fe-1f5b935f6bb3

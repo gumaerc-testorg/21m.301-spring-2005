@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 696667a3-033c-e62c-b2c9-337c8d0521f4
 resourcetype: Document
 title: intervalsgeneric.pdf
 uid: 1e7e7c7c-a664-f512-ff81-0c9fcd47cfdf

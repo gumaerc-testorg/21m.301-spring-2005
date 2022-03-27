@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39afb745-09a5-f1cb-9414-c9d1e7b62dbc
 resourcetype: Document
 title: erik_stafl_uncor.pdf
 uid: 0fbe87bb-f11b-6cfb-be5c-e3aa5f4d3380

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 696667a3-033c-e62c-b2c9-337c8d0521f4
 resourcetype: Document
 title: triads_generic.pdf
 uid: 23759f2b-7347-d4f8-2514-a9ba9e962f82
