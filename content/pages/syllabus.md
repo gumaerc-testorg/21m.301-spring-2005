@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Syllabus section contains the course description, and information about
+  required texts for lecture, required sight-singing lab, required piano lab, daily
+  assignments, quizzes, midterm exam, final project, and subject requirements and
+  grade weights.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,7 +29,7 @@ Required Texts for Lecture
 
 Aldwell, Edward, and Carl Schachter. _Harmony and Voice Leading_. 3rd ed. Orlando, FL: Harcourt Brace, 2002. ISBN: 9780155062429.
 
-Music manuscript paper: Please obtain a plentiful supply of music manuscript paper. (See the "Music manuscript paper" list of requirements for appropriate manuscript paper, located in the [study materials]({{< baseurl >}}/pages/study-materials) section.)
+Music manuscript paper: Please obtain a plentiful supply of music manuscript paper. (See the "Music manuscript paper" list of requirements for appropriate manuscript paper, located in the {{% resource_link 696667a3-033c-e62c-b2c9-337c8d0521f4 "study materials" %}} section.)
 
 Required\* Sight-singing Lab
 ----------------------------
