@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/ab4ca85d2cfe346f15
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 301_pre_test.pdf
 uid: ab4ca85d-2cfe-346f-1500-38e6172b66ba
 ---
 This file contains the questions for pre test.
-

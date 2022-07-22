@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/99efcd77b8530aed07
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz_ten_int_tri.pdf
 uid: 99efcd77-b853-0aed-07cb-2c61ac0f9185
 ---
 This file contains the questions for intervals and triads.
-

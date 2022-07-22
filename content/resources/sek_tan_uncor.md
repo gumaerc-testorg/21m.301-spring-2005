@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/b2c2acf18ede78700f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sek_tan_uncor.pdf
 uid: b2c2acf1-8ede-7870-0fde-80504b06d26e
 ---
 This resource contains uncorrected version of musical rhythm.
-

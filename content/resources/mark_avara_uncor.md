@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/b783cebfdc069efeda
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mark_avara_uncor.pdf
 uid: b783cebf-dc06-9efe-da82-b02a6b36e553
 ---
 This resource contains uncorrected version of musical rhythm.
-

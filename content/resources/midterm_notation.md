@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/64e9b529d227aa29fe
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm_notation.pdf
 uid: 64e9b529-d227-aa29-fe3b-0e8f0d4edd52
 ---
 This file contains the questions for midterm notation.
-

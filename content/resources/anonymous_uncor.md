@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/bd195695a1f46dcfbb
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: anonymous_uncor.pdf
 uid: bd195695-a1f4-6dcf-bb78-ea8dd6877ded
 ---
 This resource contains uncorrected version of musical rhythm.
-

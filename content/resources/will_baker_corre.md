@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/76f689323980f151b2
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: will_baker_corre.pdf
 uid: 76f68932-3980-f151-b2dc-91b2a710a38c
 ---
 This resource contains corrected version of musical rhythm.
-

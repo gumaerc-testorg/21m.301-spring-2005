@@ -6,6 +6,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/9b38f6616cd028c0ff
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz1.pdf
 uid: 9b38f661-6cd0-28c0-ff34-9e67b21e7403
 ---
 This file contains the questions for the topic: Scales and intervals: G Major and e Minor.
-

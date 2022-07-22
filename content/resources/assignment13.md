@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/8f044de630ca01eb48
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment13.pdf
 uid: 8f044de6-30ca-01eb-4839-4643a83a6784
 ---
 This file contains the questions for staves, notes and keys.
-

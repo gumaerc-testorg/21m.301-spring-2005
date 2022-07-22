@@ -6,6 +6,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/33fcf827f7a1b64f22
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz2.pdf
 uid: 33fcf827-f7a1-b64f-2266-ad5282048624
 ---
 This file contains the questions for the topic: Scales, Intervals, and Triads: F Major and d Minor.
-

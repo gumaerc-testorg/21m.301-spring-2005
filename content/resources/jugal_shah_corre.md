@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/2fcc33d7185e1a1e5f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: jugal_shah_corre.pdf
 uid: 2fcc33d7-185e-1a1e-5fc6-86f2aea3feed
 ---
 This resource contains corrected version of musical rhythm.
-

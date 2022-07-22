@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/9f1f34322d040d8ee0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment8.pdf
 uid: 9f1f3432-2d04-0d8e-e01c-b057c9c380e7
 ---
 This file contains the questions for the topic: Inversions of V7.
-

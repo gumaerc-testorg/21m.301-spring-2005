@@ -6,6 +6,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/c68651c49df59cb64f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz4.pdf
 uid: c68651c4-9df5-9cb6-4f85-7975014e00bc
 ---
 This file contains the questions for the topic: Scales, Intervals, and Triads: Bb Major and g Minor.
-

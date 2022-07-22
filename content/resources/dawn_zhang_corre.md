@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/7c8ae34fa3ab482481
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dawn_zhang_corre.pdf
 uid: 7c8ae34f-a3ab-4824-81f4-d8fefc365dd7
 ---
 This resource contains a musical composition.
-

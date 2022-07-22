@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/6b1ca66c13e4844f18
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final_proj_instr.pdf
 uid: 6b1ca66c-13e4-844f-1860-11fb73cee0c9
 ---
 This file contains the instructions and guidelines for the final project.
-

@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/57f80214fe94df9b35
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: valerie_morash_uncor.pdf
 uid: 57f80214-fe94-df9b-3549-9e7ceac070ce
 ---
 This resource contains uncorrected version of musical rhythm.
-

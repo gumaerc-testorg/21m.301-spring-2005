@@ -6,6 +6,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/6832bc8959d3cf094d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: asgnmnt1_sclecon.pdf
 uid: 6832bc89-59d3-cf09-4daa-3ff0db0dfa43
 ---
 This file contains the assignments for scale construction and also gives the background for simple ratios of frequency.
-

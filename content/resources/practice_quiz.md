@@ -6,6 +6,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/aea92c995a0ca9b4f9
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: practice_quiz.pdf
 uid: aea92c99-5a0c-a9b4-f956-6feba57f49c6
 ---
 This file contains the questions for he topic: Scales, intervals, and Triads: C Major and a Minor.
-

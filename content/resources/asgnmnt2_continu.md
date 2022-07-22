@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/1c211eed4e5995d42c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: asgnmnt2_continu.pdf
 uid: 1c211eed-4e59-95d4-2c70-1ee93de0a06e
 ---
 This file contains the assignment for key, scale and intervals.
-

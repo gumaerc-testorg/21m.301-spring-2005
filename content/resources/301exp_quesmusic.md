@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/80ce317683dda0f0c3
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 301exp_quesmusic.pdf
 uid: 80ce3176-83dd-a0f0-c3ff-7c777bfd6242
 ---
 This file contains the questions for exam preparation.
-

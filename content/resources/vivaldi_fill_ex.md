@@ -5,6 +5,7 @@ file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/3caadf1b9ffdfc6031
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: vivaldi_fill_ex.pdf
 uid: 3caadf1b-9ffd-fc60-3181-87f88a0a0290
 ---
 This file contains the exercise for Vivaldi Domine Fili.
-
