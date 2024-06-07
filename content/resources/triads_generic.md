@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains a list of generic triads.
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/23759f2b7347d4f82514a9ba9e962f82_triads_generic.pdf
+file_size: 43269
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

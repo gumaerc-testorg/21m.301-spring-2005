@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the a list of common errors and abbreviations.
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/497b8324ab958f3470f6cf91de531114_errors_table_sim.pdf
+file_size: 77045
 file_type: application/pdf
 learning_resource_types:
 - Assignments
