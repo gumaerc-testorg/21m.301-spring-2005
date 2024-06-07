@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains the questions for the topic: The Cadential Six-four.'
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/f4f8c1e6eeda8a71cc48618544e3c0e7_assignment10_srt.pdf
+file_size: 71477
 file_type: application/pdf
 learning_resource_types:
 - Assignments

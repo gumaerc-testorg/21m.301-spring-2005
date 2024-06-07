@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the questions for exam preparation.
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/d6e7f7a1bedbb66248f41dfbb77d2932_301exp_ques.pdf
+file_size: 95569
 file_type: application/pdf
 learning_resource_types:
 - Exams
