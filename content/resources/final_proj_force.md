@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the instructions for the final project.
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/695d904f02a6015a316583ae707e7118_final_proj_force.pdf
+file_size: 21428
 file_type: application/pdf
 learning_resource_types:
 - Projects

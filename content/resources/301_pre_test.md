@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the questions for pre test.
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/ab4ca85d2cfe346f150038e6172b66ba_301_pre_test.pdf
+file_size: 94202
 file_type: application/pdf
 learning_resource_types:
 - Exams

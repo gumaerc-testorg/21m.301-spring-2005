@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the teacher student chant.
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/e7c884ce100c84aa0908bfdcc6d69ee6_teach_stud_chant.pdf
+file_size: 53135
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

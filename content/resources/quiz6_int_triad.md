@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the questions for interval and triads.
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/f690ba1d5e6db1d15ddb6d21544d2b53_quiz6_int_triad.pdf
+file_size: 61893
 file_type: application/pdf
 learning_resource_types:
 - Exams

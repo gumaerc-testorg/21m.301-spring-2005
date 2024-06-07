@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the questions for pre midterm practice.
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/4adac2994e55d63274d70b60fbc312af_pre_mdtrm_pr_ass.pdf
+file_size: 66266
 file_type: application/pdf
 learning_resource_types:
 - Exams
