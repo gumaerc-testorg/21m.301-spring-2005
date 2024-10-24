@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains corrected version of musical rhythm.
-file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/a853e6c60e5a66b3ff74cb36dec1bc45_rian_hunter_corre.pdf
+file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/a853e6c60e5a66b3ff74cb36dec1bc45_rian_hunter_corre.pdf
 file_size: 70301
 file_type: application/pdf
 learning_resource_types:

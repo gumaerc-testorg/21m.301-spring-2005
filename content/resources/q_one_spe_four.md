@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information for horizontal successions, and vertical
   successions.
-file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/b9fd42cf7bd85c3279fe1f5b935f6bb3_q_one_spe_four.pdf
+file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/b9fd42cf7bd85c3279fe1f5b935f6bb3_q_one_spe_four.pdf
 file_size: 89647
 file_type: application/pdf
 learning_resource_types: []
