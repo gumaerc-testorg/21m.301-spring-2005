@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the assignment for key, scale and interval.
-file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/2aa5a9f0c064677fdb79b8becdbf2fc5_asgnmnt2_keys_in.pdf
+file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/2aa5a9f0c064677fdb79b8becdbf2fc5_asgnmnt2_keys_in.pdf
 file_size: 18921
 file_type: application/pdf
 learning_resource_types:
