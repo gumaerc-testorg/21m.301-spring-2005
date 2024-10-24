@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the questions for the topic: Scales, Intervals, and
   Triads: F Major and d Minor.'
-file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/33fcf827f7a1b64f2266ad5282048624_quiz2.pdf
+file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/33fcf827f7a1b64f2266ad5282048624_quiz2.pdf
 file_size: 85244
 file_type: application/pdf
 learning_resource_types:
