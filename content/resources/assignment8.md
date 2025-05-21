@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains the questions for the topic: Inversions of V7.'
-file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/9f1f34322d040d8ee01cb057c9c380e7_assignment8.pdf
+file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/9f1f34322d040d8ee01cb057c9c380e7_assignment8.pdf
 file_size: 80580
 file_type: application/pdf
 learning_resource_types:

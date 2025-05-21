@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the description for Perfect consonances, and Imperfect
   consonances.
-file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/e8719c712f83b7e2ec647e1d0b0148a8_intervals_real.pdf
+file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/e8719c712f83b7e2ec647e1d0b0148a8_intervals_real.pdf
 file_size: 13979
 file_type: application/pdf
 learning_resource_types: []

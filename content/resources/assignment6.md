@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the questions for the topic: Root-position I, V,
   and V7.'
-file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/046c37cfc429863034cbed20884ac4f5_assignment6.pdf
+file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/046c37cfc429863034cbed20884ac4f5_assignment6.pdf
 file_size: 66285
 file_type: application/pdf
 learning_resource_types:
