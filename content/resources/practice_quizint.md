@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the questions for practice quiz for intervals.
-file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/51b4a9bd73fe836bdf6fd688a91d7938_practice_quizint.pdf
+file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/51b4a9bd73fe836bdf6fd688a91d7938_practice_quizint.pdf
 file_size: 44504
 file_type: application/pdf
 learning_resource_types:

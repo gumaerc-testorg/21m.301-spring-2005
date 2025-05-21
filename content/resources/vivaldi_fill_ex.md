@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the exercise for Vivaldi Domine Fili.
-file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/3caadf1b9ffdfc60318187f88a0a0290_vivaldi_fill_ex.pdf
+file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/3caadf1b9ffdfc60318187f88a0a0290_vivaldi_fill_ex.pdf
 file_size: 233013
 file_type: application/pdf
 learning_resource_types:

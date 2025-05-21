@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the questions for the topic: Scales, Intervals, and
   Triads: Bb Major and g Minor.'
-file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/c68651c49df59cb64f857975014e00bc_quiz4.pdf
+file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/c68651c49df59cb64f857975014e00bc_quiz4.pdf
 file_size: 72242
 file_type: application/pdf
 learning_resource_types:

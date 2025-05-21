@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the solutions to assignment 11.
-file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/33ad43496c8f656d0d96610efcbf28bd_assignment11_sol.pdf
+file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/33ad43496c8f656d0d96610efcbf28bd_assignment11_sol.pdf
 file_size: 124779
 file_type: application/pdf
 learning_resource_types:
