@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the questions for midterm exam.
-file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/a61b31e04b9f1e12d1146cebf1f8ccad_midterm_exam.pdf
+file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/a61b31e04b9f1e12d1146cebf1f8ccad_midterm_exam.pdf
 file_size: 257199
 file_type: application/pdf
 learning_resource_types:

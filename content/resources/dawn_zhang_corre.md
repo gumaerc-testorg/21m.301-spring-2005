@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a musical composition.
-file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/7c8ae34fa3ab482481f4d8fefc365dd7_dawn_zhang_corre.pdf
+file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/7c8ae34fa3ab482481f4d8fefc365dd7_dawn_zhang_corre.pdf
 file_size: 48733
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the questions for staves, notes and keys.
-file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/8f044de630ca01eb48394643a83a6784_assignment13.pdf
+file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/8f044de630ca01eb48394643a83a6784_assignment13.pdf
 file_size: 85216
 file_type: application/pdf
 learning_resource_types:
