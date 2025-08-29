@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the instructions and guidelines for the final project.
-file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/6b1ca66c13e4844f186011fb73cee0c9_final_proj_instr.pdf
+file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/6b1ca66c13e4844f186011fb73cee0c9_final_proj_instr.pdf
 file_size: 108178
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the questions for the topic: Scales and intervals:
   G Major and e Minor.'
-file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/9b38f6616cd028c0ff349e67b21e7403_quiz1.pdf
+file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/9b38f6616cd028c0ff349e67b21e7403_quiz1.pdf
 file_size: 71655
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the questions for the topic: Using Tonic, Dominant,
   and Pre-Dominant Harmonies.'
-file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/5f64e1d0404db05e04b1e9dd4269f0cd_assignment9.pdf
+file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/5f64e1d0404db05e04b1e9dd4269f0cd_assignment9.pdf
 file_size: 90102
 file_type: application/pdf
 learning_resource_types:
