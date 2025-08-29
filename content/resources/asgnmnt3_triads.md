@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the questions for root and quality of triads.
-file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/ee19a1342a38393be325ef17f64fb912_asgnmnt3_triads.pdf
+file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/ee19a1342a38393be325ef17f64fb912_asgnmnt3_triads.pdf
 file_size: 75813
 file_type: application/pdf
 learning_resource_types:

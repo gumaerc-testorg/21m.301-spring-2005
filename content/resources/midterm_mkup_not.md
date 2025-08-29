@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the notations for the make-up exam.
-file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/50f09a3c3e32e9b534c56aad04af73f3_midterm_mkup_not.pdf
+file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/50f09a3c3e32e9b534c56aad04af73f3_midterm_mkup_not.pdf
 file_size: 94548
 file_type: application/pdf
 learning_resource_types:
