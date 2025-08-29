@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the assignment for two part writing for the identification
   of keys and creation of soprano line.
-file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/1e2dff536bc156dd3f2f903885c3ff4c_asgnmnt5_twopart.pdf
+file: /ol-ocw-studio-app/courses/21m-301-harmony-and-counterpoint-i-spring-2005/1e2dff536bc156dd3f2f903885c3ff4c_asgnmnt5_twopart.pdf
 file_size: 60146
 file_type: application/pdf
 learning_resource_types:
